@@ -1,6 +1,6 @@
 <template>
   <div>
-
+<img src="../assets/step6.svg" alt="step6" class="steps">
   </div>
 </template>
 

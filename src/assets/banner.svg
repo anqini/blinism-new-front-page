@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="309px" viewBox="0 0 1440 309" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>了解比邻主义</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="比邻" transform="translate(0.000000, -3710.000000)">
+            <g id="了解比邻主义" transform="translate(0.000000, 3710.000000)">
+                <rect id="矩形备份" fill="#F7F9FC" x="0" y="0" width="1440" height="309"></rect>
+                <polyline id="路径" stroke="#028FA6" stroke-width="4" transform="translate(725.000000, 154.500000) scale(1, -1) translate(-725.000000, -154.500000) " points="981.094262 251 332 251 332 58 1118 58 1118 128.688871"></polyline>
+                <rect id="矩形" fill="#E678AF" transform="translate(998.000000, 126.000000) scale(1, -1) translate(-998.000000, -126.000000) " x="878" y="96" width="240" height="60"></rect>
+                <text font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="948" y="135">了解比邻主义</tspan>
+                </text>
+                <text id="更好的过程，更好的结果-更好的团队，更好" font-family="PingFangSC-Regular, PingFang SC" font-size="28" font-weight="normal" line-spacing="50" fill="#11A6B9">
+                    <tspan x="497" y="124">更好的过程，更好的结果</tspan>
+                    <tspan x="805" y="124" font-family="Helvetica"></tspan>
+                    <tspan x="497" y="174">更好的团队，更好的服务</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
