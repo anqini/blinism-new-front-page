@@ -2,25 +2,31 @@
   <div>
     <div id="front-page-wrapper">
       <NavBar></NavBar>
-      <logo />
+      <logo class="logo" />
       <div id="textblock">
-        <h3 class="bold">比邻主义标准申请套装</h3>
+        <h3 class="bold" style="margin-bottom: 10px;">比邻主义标准申请套装</h3>
             <p class="gray">全面测评  |  冷静规划  |  客观选校  |  严选背景提升  |  文书训练营<br />
         开脑洞肝文书  |  美文润色  |  透明提交  |  全面跟进  |  境外福利</p>
       </div>
       <div id="contact">
         <div style="margin-right: 5%;">
+          <p>
           中国： +86-400-022-7623 <br>
           美国： +1-(202)-768-8923
+          </p> 
         </div>
         <div style="margin-right: 5%;">
+          <p>
           周一至周五 <br>
           9:00 to 24:00
+          </p>
         </div>
-        <div>info@blinism.com</div>
-        <img id="qrcode" style="position:absolute;" src="./assets/qrcode.jpg" alt="qrcode">
+        <div><p>info@blinism.com</p></div>
+        <p><img id="qrcode" style="position:absolute;" src="./assets/qrcode.jpg" alt="qrcode"></p>
+        
       </div>
     </div>
+    
     <div style="background-color: #f4f7fa;">
       <Subtitle />
       <Step1 />
@@ -67,6 +73,26 @@ export default {
 </script>
 
 <style>
+h3, h2, h1, p {
+  margin: 0;
+}
+@media only screen and (min-width: 1400px) {
+  p {
+    font-size: 1.3em;
+  }
+  h3 {
+    font-size:1.4em;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
+  #qrcode {
+    bottom: 10% !important;
+  }
+}
+#logo {
+  height: 60vh;
+}
 #contact {
   height: 70px;
     width: 70%;
@@ -87,14 +113,14 @@ export default {
   width: 100%;
 }
 #textblock {
-    width: 500px;
-    margin: 0 auto;
+    margin: 10px auto;
     text-align: center;
+    margin-bottom: 3%;
 }
 #qrcode {
     position: absolute;
     bottom: 50px;
-    height: 18%;
+    height: 14%;
     right: 15%;
 }
 .bold {
@@ -111,5 +137,7 @@ body {
     left: 50%;
     width: 80%;
     margin-left: -40%;
+    margin-top:5%;
 }
+
 </style>

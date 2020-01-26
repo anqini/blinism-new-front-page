@@ -1,6 +1,6 @@
 <template>
   <div>
-<svg style="width: 70%;"  width="1040px" height="137px" viewBox="0 0 1040 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg  width="1040px" height="137px" viewBox="0 0 1040 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
     <title>解忧六部曲</title>
     <desc>Created with Sketch.</desc>

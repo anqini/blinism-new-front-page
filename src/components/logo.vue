@@ -131,8 +131,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 #logo {
-    width: 90%;
+    width: 80%;
     margin-top: 120px;
-    margin-left: 5%;
+    margin-left: 10%;
 }
 </style>
